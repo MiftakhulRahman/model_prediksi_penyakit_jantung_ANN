@@ -35,8 +35,7 @@ Proyek ini mengimplementasikan model prediksi penyakit jantung menggunakan metod
 Dataset yang digunakan adalah `heart.csv` yang memiliki fitur-fitur berikut:
 - Variabel Kategorikal: Sex, ChestPainType, RestingECG, ExerciseAngina, ST_Slope
 - Variabel Numerik: Age, RestingBP, Cholesterol, MaxHR, Oldpeak
-- Target: HeartDisease (binary classification)
-Dataset di peroleh dari kaggle : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
+- Target: HeartDisease (binary classification)<br>Dataset di peroleh dari kaggle : https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction
 
 ## 📈 Hasil dan Evaluasi
 Penelitian ini berhasil mengembangkan model prediksi risiko penyakit jantung menggunakan Artificial Neural Network dengan tingkat akurasi 86.41%. Model menunjukkan performa yang seimbang dalam mengidentifikasi kasus positif dan negatif, yang dibuktikan dengan nilai F1-score yang konsisten untuk kedua kelas (0.84 dan 0.88).Keberhasilan implementasi model ini memberikan potensi signifikan dalam mendukung proses screening awal penyakit jantung. Dengan kemampuan generalisasi yang baik dan tingkat error yang relatif rendah, model dapat menjadi alat bantu yang valuable bagi praktisi medis dalam melakukan assessment risiko penyakit jantung
