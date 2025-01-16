@@ -4,11 +4,11 @@
 ## 📚 Informasi Akademik
 | Detail           | Keterangan                                |
 |-----------------|-------------------------------------------|
-| Nama            | : Miftakhul Rahman                          |
-| NIM             | : 24.66.1012                               |
-| Kelas           | : Student Exchange                          |
-| Mata Kuliah     | : Big Data & Data Mining                    |
-| Dosen Pengampu  | : Hendri Kurniawan Prakosa, S.Kom., M.Cs   |
+| Nama            | Miftakhul Rahman                          |
+| NIM             | 24.66.1012                               |
+| Kelas           | Student Exchange                          |
+| Mata Kuliah     | Big Data & Data Mining                    |
+| Dosen Pengampu  | Hendri Kurniawan Prakosa, S.Kom., M.Cs   |
 
 ## 📝 Deskripsi Proyek
 Proyek ini mengimplementasikan model prediksi penyakit jantung menggunakan metode Artificial Neural Network (ANN). Model ini dikembangkan untuk mengklasifikasikan risiko penyakit jantung berdasarkan berbagai parameter kesehatan pasien. Implementasi menggunakan arsitektur deep learning modern dengan teknik regularisasi untuk mencegah overfitting.
